@@ -1,0 +1,3 @@
+This is Linux and DevOps training session
+Linux is an OS 
+DevOps is a combination of Development and Operations
